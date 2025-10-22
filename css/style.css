@@ -4181,6 +4181,10 @@ table.tpl-table th{color: #22282e;font-weight: 700;font-size: 14px;background: #
 table.tpl-table td:first-of-type{
     width: 60%;
 }
+table.tpl-table td {
+  font-weight: bold !important;
+}
+
 table.tpl-table{
     border-radius: 5px;
     overflow: hidden;
