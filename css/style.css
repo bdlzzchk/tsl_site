@@ -2403,6 +2403,11 @@ a.absolute{
     margin-top: -1px;
     background: #F02A29;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 /**************************************/
 .header-push{
     height: 101px;
